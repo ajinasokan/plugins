@@ -1,6 +1,7 @@
 ## 1.1.5
 
 * Updated grammatical errors and inaccurate information in README.
+* Add `strongAuthenticatorsOnly` flag to prevent authentication with weak biometric systems on Android.
 
 ## 1.1.4
 
